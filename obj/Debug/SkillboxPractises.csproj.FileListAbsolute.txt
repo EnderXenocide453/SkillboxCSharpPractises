@@ -1,0 +1,7 @@
+C:\Users\Lakssterius\source\repos\SkillboxPractises\bin\Debug\SkillboxPractises.exe.config
+C:\Users\Lakssterius\source\repos\SkillboxPractises\bin\Debug\SkillboxPractises.exe
+C:\Users\Lakssterius\source\repos\SkillboxPractises\bin\Debug\SkillboxPractises.pdb
+C:\Users\Lakssterius\source\repos\SkillboxPractises\obj\Debug\SkillboxPractises.csproj.AssemblyReference.cache
+C:\Users\Lakssterius\source\repos\SkillboxPractises\obj\Debug\SkillboxPractises.csproj.CoreCompileInputs.cache
+C:\Users\Lakssterius\source\repos\SkillboxPractises\obj\Debug\SkillboxPractises.exe
+C:\Users\Lakssterius\source\repos\SkillboxPractises\obj\Debug\SkillboxPractises.pdb
